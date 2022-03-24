@@ -2,7 +2,7 @@
 
 ###### Day 137 of the year 1021
 
-The charismatic, *not to mention eminently bedable*, **Kargon VIII**, High King of all of ***Greater Arthia***, like all his predecessors whose name he shared was known for two things; his over the top debauchery and his exceedingly great charm. As a direct result of this hedonistic nature he has recently died in a most spectacular fashion. 
+The charismatic - *not to mention eminently bedable* - **Kargon VIII**, High King of all of ***Greater Arthia***, was most known for two things; his over the top debauchery and his exceedingly great charm. As a direct result of this hedonistic nature he has recently died in a most spectacular fashion. 
 
 The populace of ***Greater Arthia*** assume that the last 8 kings of the empire are showing respect for their ancestors by taking the name of his predecessors; this could not be farther from the truth. All eight kings named **Kargon** were the same being. **Kargon** was, in fact, a cambion and used this ruse to keep the population from rising up against his tyranny with the full knowledge of the **Arthian Council *of* Ministers**. 
 
@@ -18,9 +18,9 @@ The king had the temerity to leave behind no 'direct' heirs and the lines of suc
 
 ###### Day 143 of the year 1021
 
-It has been discovered that **Mordank** had a hand in the planning of this atrocious assassination and in ***Greater Arthia***there is only one punishment for commiting regicide - **death**.
+It has been discovered that **Mordank** had a hand in the planning of this atrocious assassination and in ***Greater Arthia*** there is only one punishment for commiting regicide - **death**.
 
-Further, **Mordank** in a fit of rage over the current state of succession passing him by for his much younger brother **Horeak Olokas**, has let the public in on **Kargon's** secret as the last 8 kings of ***Greater Arthia***; this has shaken the general populace but their love for **Kargon** has so far kept outright rebellion out of the immediate future.
+In a fit of rage over the current state of succession passing him by for his much younger brother **Horeak Olokas**,  **Mordank** has let the public in on **Kargon's** secret; namely that he was every one of the last 8 kings of ***Greater Arthia***, merely pretending to die and pass on the crown to an heir. This has shaken the general populace but their love for **Kargon** has so far kept outright rebellion out of the immediate future.
 
 The **Arthian Council *of* Ministers**, in it's infinite wisdom (*not to mention its craven nature of self-preservation against powerful heirs*), has divided the kingdom into one hundred counties of varying sizes and distributed them among those with claim to the throne hoping that most will die in the ensuing power struggle. 
 
